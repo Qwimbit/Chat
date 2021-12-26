@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="enter_name">Введите Имя</string>
+    <string name="enter_email">Введите Email</string>
+    <string name="enter_password">Введите Пароль</string>
+    <string name="confirm_password">Подтвердите Пароль</string>
+    <string name="type_message">Напишите сообщение</string>
+
+    <string name="create_new_account">Создать новый аккуант</string>
+    <string name="already_have_account">Уже есть аккуант</string>
+
+    <string name="label_sign_up">Создать новый аккуант</string>
+    <string name="label_sign_in">ВОЙТИ</string>
+
+    <string name="btn_sign_up">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="btn_sign_in">ВОЙТИ</string>
+    <string name="label_exit_profile">Выйти из профиля</string>
+    <string name="label_profile">Профиль</string>
+    <string name="btn_save">Сохранить</string>
+
+</resources>
